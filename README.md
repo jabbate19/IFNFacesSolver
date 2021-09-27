@@ -1,6 +1,5 @@
 # IFNFacesSolver
-I am a Menace to Humanity.
-
+This project is meant for a public Garry's Mod Clone Wars Roleplay Server.
 
 Will solve any face, give you the valid faces and the ending result
 
